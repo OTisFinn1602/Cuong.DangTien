@@ -38,6 +38,7 @@ body {
 }
 
 .main {
+    position: fixed;
     display: flex;
 }
 
